@@ -13,9 +13,7 @@ Telco-Churn-Project/
 └── README.md # Project documentation
 
 
----
-
-🔧 Tools & Technologies
+Tools & Technologies
 
 -Python: pandas, scikit-learn, imbalanced-learn, pickle
 -Streamlit: user-friendly churn prediction interface
@@ -24,16 +22,16 @@ Telco-Churn-Project/
 
 Key Features
 
-🧠 Machine Learning
+Machine Learning
 - Binary classification using RandomForestClassifier
 - SMOTE used for class imbalance
 - Feature encoding, preprocessing, and model saving done in Python
 
-💻 Streamlit App
+Streamlit App
 - Interactive form for real-time churn prediction
 - Displays churn probability based on input features
 
-📊 Power BI Dashboard
+Power BI Dashboard
 - KPIs: Total Customers, Churn Rate, Average Tenure
 - Interactive visuals: Churn by Contract, Internet Service, Monthly  Charges
 - Dynamic slicers for gender, payment method, etc.
@@ -41,7 +39,7 @@ Key Features
 
 
 
-📦 How to Use
+How to Use
 
 1. Clone this repository:
    ```bash
@@ -53,7 +51,6 @@ Key Features
 
 3. Open TelcoDashboard.pbix in Power BI to explore the dashboard.
 
-📌 Credits
+Credits
 Dataset: Telco Customer Churn
-
 Project by: Aditya Kutte
